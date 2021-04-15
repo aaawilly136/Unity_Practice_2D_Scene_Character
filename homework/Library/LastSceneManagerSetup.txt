@@ -1,5 +1,5 @@
 sceneSetups:
-- path: C:/UNIITY/unity_homework1/Unity_Practice_2D_Scene_Character/UnityProject/Assets/scence/homework.unity
+- path: Assets/Scenes/SampleScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
